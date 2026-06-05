@@ -48,7 +48,8 @@ Here's how it works:
 
 ---
 
-<img width="4724" height="2364" alt="image" src="https://github.com/user-attachments/assets/0e9c202b-efd9-4a41-b593-1c5dfb42b9aa" />
+<img width="5444" height="2524" alt="image" src="https://github.com/user-attachments/assets/64f23ddf-174a-42fd-a591-012500b95f3f" />
+
 
 
 
